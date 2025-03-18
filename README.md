@@ -34,7 +34,7 @@ The script performs the following actions:
 
 2.  **Configure Sophos API credentials:**
 
-    * Open the Python script (`your_script_name.py`).
+    * Open the Python script (`Sophos-wazuh-python.py`).
     * Replace `<CLIENT_ID>` and `<CLIENT_SECRET>` with your actual Sophos Central API credentials.
 
     ```python
@@ -71,10 +71,8 @@ The script performs the following actions:
 5.  **Run the script:**
 
     ```bash
-    python your_script_name.py
+    python Sophos-wazuh-python.py
     ```
-
-    * Replace `your_script_name.py` with the actual name of your Python script.
 
 ## Script Details
 
